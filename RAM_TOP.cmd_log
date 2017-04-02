@@ -1,0 +1,1 @@
+vhdtdtfi -prj Computer_N0T -o C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/RAM_TOP.vhi -module RAM_TOP -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../RAM_32K/RAM_TOP.vhd 

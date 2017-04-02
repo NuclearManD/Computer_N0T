@@ -1,0 +1,5 @@
+vhdl work "../keyboard_controller/ipcore_dir/fifo.vhd"
+vhdl work "../keyboard_controller/debounce.vhd"
+vhdl work "../keyboard_controller/ps2_keyboard.vhd"
+vhdl work "../Keyboard_controller_2/ps2_keyboard_to_ascii.vhd"
+vhdl work "../Keyboard_controller_2/kbd_main_ctrl.vhd"

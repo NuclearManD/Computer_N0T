@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_textio" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="top_tb_n0t" />
+            <top_module name="uart2bustop_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/top_tb_n0t/uut/a_n016/ax" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">ax</obj_property>
+      <obj_property name="ObjectShortName">ax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/ce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ce</obj_property>
+      <obj_property name="ObjectShortName">ce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">we</obj_property>
+      <obj_property name="ObjectShortName">we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/din" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">din[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/dout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/nf_a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">nf_a[24:0]</obj_property>
+      <obj_property name="ObjectShortName">nf_a[24:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/nf_d" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">nf_d[7:0]</obj_property>
+      <obj_property name="ObjectShortName">nf_d[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/nf_ce" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nf_ce</obj_property>
+      <obj_property name="ObjectShortName">nf_ce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/nf_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nf_we</obj_property>
+      <obj_property name="ObjectShortName">nf_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/nf_oe" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nf_oe</obj_property>
+      <obj_property name="ObjectShortName">nf_oe</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/Inst_Disk_Controller/adr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">adr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">adr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/a_n016/a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/a_n016/cimo" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">cimo</obj_property>
+      <obj_property name="ObjectShortName">cimo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb_n0t/uut/a_n016/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+</wave_config>

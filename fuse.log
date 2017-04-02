@@ -1,0 +1,74 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_isim_beh.exe -prj C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_beh.prj work.top_tb_n0t 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/ipcore_dir/genaric_fifo.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../keyboard_controller/ipcore_dir/fifo.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../keyboard_controller/debounce.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/uartTx.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/uartRx.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/uart2BusTop_pkg.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/baudGen.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../keyboard_controller/ps2_keyboard.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/uartTop.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../RAM_32K/ipcore_dir/RAM_CORE.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../N016/timer.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../N016/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../Keyboard_controller_2/ps2_keyboard_to_ascii.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../UART_core/uart_top.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../RAM_32K/RAM_TOP.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../N016/ngx32.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../Keyboard_controller_2/kbd_main_ctrl.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../disk_ext_spi/Disk_Controller.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/../../Desktop/asm/nseries/biosram.vhd" into library work
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Top_Module.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Top_Module.vhd" Line 174: Actual for formal port rst is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture logic of entity debounce [\debounce(8)\]
+Compiling architecture logic of entity ps2_keyboard [\ps2_keyboard(50000000,8)\]
+Compiling architecture behavior of entity ps2_keyboard_to_ascii [\ps2_keyboard_to_ascii(50000000,...]
+Compiling architecture behavioral of entity fifo_generator_v9_3_bhv_ss [\fifo_generator_v9_3_bhv_ss(5,8,...]
+Compiling architecture behavioral of entity fifo_generator_v9_3_conv [\fifo_generator_v9_3_conv(1,0,5,...]
+Compiling architecture behavioral of entity fifo_generator_v9_3 [\fifo_generator_v9_3(1,0,5,"Blan...]
+Compiling architecture fifo_a of entity fifo [fifo_default]
+Compiling architecture behavioral of entity kbd_main_ctrl [kbd_main_ctrl_default]
+Compiling architecture unit of entity timer [timer_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity n016 [n016_default]
+Compiling package uart2bustop_pkg
+Compiling architecture behavioral of entity fifo_generator_v9_3_bhv_ss [\fifo_generator_v9_3_bhv_ss(6,8,...]
+Compiling architecture behavioral of entity fifo_generator_v9_3_conv [\fifo_generator_v9_3_conv(1,0,6,...]
+Compiling architecture behavioral of entity fifo_generator_v9_3 [\fifo_generator_v9_3(1,0,6,"Blan...]
+Compiling architecture genaric_fifo_a of entity genaric_fifo [genaric_fifo_default]
+Compiling architecture behavioral of entity baudGen [baudgen_default]
+Compiling architecture behavioral of entity uartTx [uarttx_default]
+Compiling architecture behavioral of entity uartRx [uartrx_default]
+Compiling architecture behavioral of entity uartTop [uarttop_default]
+Compiling architecture arch_uart8 of entity uart_top [uart_top_default]
+Compiling architecture behavioral of entity biosram [biosram_default]
+Compiling package textio
+Compiling package std_logic_textio
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V7_3_output_stage [\BLK_MEM_GEN_V7_3_output_stage("...]
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V7_3_output_stage [\BLK_MEM_GEN_V7_3_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V7_3_softecc_output_reg_stage [\BLK_MEM_GEN_V7_3_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V7_3_mem_module [\BLK_MEM_GEN_V7_3_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V7_3 [\BLK_MEM_GEN_V7_3("blk_mem_gen_v...]
+Compiling architecture ram_core_a of entity RAM_CORE [ram_core_default]
+Compiling architecture behavioral of entity RAM_TOP [ram_top_default]
+Compiling architecture behavioral of entity Disk_Controller [disk_controller_default]
+Compiling architecture system of entity Top_Module [top_module_default]
+Compiling architecture behavior of entity top_tb_n0t
+Time Resolution for simulation is 1ps.
+Waiting for 30 sub-compilation(s) to finish...
+Compiled 69 VHDL Units
+Built simulation executable C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_isim_beh.exe
+Fuse Memory Usage: 63484 KB
+Fuse CPU Usage: 1981 ms

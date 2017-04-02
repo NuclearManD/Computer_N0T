@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Computer_N0T" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Top_Module - SYSTEM C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_int_disk_top - int_disk_top - Behavioral</ClosedNode>
+         <ClosedNode>/Top_Module - SYSTEM C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_kbd_main_ctrl - kbd_main_ctrl - Behavioral</ClosedNode>
+         <ClosedNode>/Top_Module - SYSTEM C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_n016 - n016 - Behavioral</ClosedNode>
+         <ClosedNode>/Top_Module - SYSTEM C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_uart_top - uart_top - arch_uart8</ClosedNode>
+         <ClosedNode>/Top_Module - SYSTEM G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_kbd_main_ctrl - kbd_main_ctrl - Behavioral</ClosedNode>
+         <ClosedNode>/Top_Module - SYSTEM G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_n016 - n016 - Behavioral</ClosedNode>
+         <ClosedNode>/Top_Module - SYSTEM G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd/a_uart_top - uart_top - arch_uart8/uart_controller - uartTop - Behavioral</ClosedNode>
+         <ClosedNode>/int_disk_top - Behavioral G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|int_disk_top.vhd</ClosedNode>
+         <ClosedNode>/int_disk_top - Behavioral G:|dylanbrophy|VHDL_computer_parts|on-chip_disk|int_disk_top.vhd</ClosedNode>
+         <ClosedNode>/kbd_main_ctrl - Behavioral G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|kbd_main_ctrl.vhd</ClosedNode>
+         <ClosedNode>/kbd_main_ctrl - Behavioral G:|dylanbrophy|VHDL_computer_parts|keyboard_controller|kbd_main_ctrl.vhd</ClosedNode>
+         <ClosedNode>/n016 - Behavioral G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|ngx32.vhd</ClosedNode>
+         <ClosedNode>/n016 - Behavioral G:|dylanbrophy|VHDL_computer_parts|N016|ngx32.vhd</ClosedNode>
+         <ClosedNode>/ps2_keyboard - logic G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|ps2_keyboard.vhd</ClosedNode>
+         <ClosedNode>/test_spi_ctrl - test G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|tb_spi_ctrl.vhd</ClosedNode>
+         <ClosedNode>/uart2BusTop - Behavioral G:|dylanbrophy|VHDL_computer_parts|UART_core|uart2BusTop.vhd</ClosedNode>
+         <ClosedNode>/uartTop - Behavioral G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|uartTop.vhd</ClosedNode>
+         <ClosedNode>/uart_top - arch_uart8 G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|uart_top.vhd</ClosedNode>
+         <ClosedNode>/uart_top - arch_uart8 G:|dylanbrophy|VHDL_computer_parts|UART_core|uart_top.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Top_Module - SYSTEM (C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Top_Module.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001ce000000020000000000000000000000000200000064ffffffff000000810000000300000002000001ce0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Top_Module - SYSTEM (C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Top_Module.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027a000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001ae0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ALU.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Generate Programming File</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Generate Programming File</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Top_Module - SYSTEM G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|Top_Module.vhd</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/Inst_RAM_TOP - RAM_TOP - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_int_disk_top - int_disk_top - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_kbd_main_ctrl - kbd_main_ctrl - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_kbd_main_ctrl - kbd_main_ctrl - Behavioral/keyboard - ps2_keyboard_to_ascii - behavior</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_n016 - n016 - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior C:|Users|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_uart_top - uart_top - arch_uart8</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_int_disk_top - int_disk_top - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_kbd_main_ctrl - kbd_main_ctrl - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_n016 - n016 - Behavioral</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_uart_top - uart_top - arch_uart8</ClosedNode>
+         <ClosedNode>/top_tb_n0t - behavior G:|dylanbrophy|VHDL_computer_parts|Computer_N0T|top_tb_n0t.vhd/uut - Top_Module - SYSTEM/a_uart_top - uart_top - arch_uart8/uart_controller - uartTop - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001e2000000020000000000000000000000000200000064ffffffff000000810000000300000002000001e20000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Inst_Disk_Controller - Disk_Controller - Behavioral (C:/Users/dylanbrophy/VHDL_computer_parts/disk_ext_spi/Disk_Controller.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000f7000000c801000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>

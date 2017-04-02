@@ -1,0 +1,36 @@
+ISim log file
+Running: C:\Users\dylanbrophy\VHDL_computer_parts\Computer_N0T\top_tb_n0t_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -view C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/def.wcfg -wdb C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# run 1.00us
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 1.00us
+at 1070 ns(1): Note: Block Memory Generator CORE Generator module is using a behavioral model FOR simulation which will not precisely model memory collision behavior. (/top_tb_n0t/uut/Inst_RAM_TOP/your_instance_name/U0/native_mem_module/mem_module/).
+at 1230 ns(4), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+at 9970 ns(8), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 1.00us
+at 10150 ns(6), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 10270 ns(6), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 10390 ns(6), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 10510 ns(4), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 1.00us
+# run 1.00us
+at 12610 ns(8), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 12790 ns(6), Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# run 1.00us

@@ -1,0 +1,1 @@
+vhdtdtfi -prj Computer_N0T -o G:/dylanbrophy/VHDL_computer_parts/Computer_N0T/n016.vhi -module n016 -template G:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../N016/timer.vhd -lib work ../N016/ALU.vhd -lib work ../N016/ngx32.vhd 

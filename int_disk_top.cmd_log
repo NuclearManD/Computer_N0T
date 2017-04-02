@@ -1,0 +1,1 @@
+vhdtdtfi -prj Computer_N0T -o G:/dylanbrophy/VHDL_computer_parts/Computer_N0T/int_disk_top.vhi -module int_disk_top -template G:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../on-chip_disk/spi_ctrl.vhd -lib work ../on-chip_disk/int_disk_top.vhd 

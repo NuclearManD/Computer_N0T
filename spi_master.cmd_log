@@ -1,0 +1,2 @@
+vhdtdtfi -prj Computer_N0T -o C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/spi_master.vhi -module spi_master -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work spi_master.vhd 
+vhdtdtfi -prj Computer_N0T -o C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/spi_master.vhi -module spi_master -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work spi_master.vhd 

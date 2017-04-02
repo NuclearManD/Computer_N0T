@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Place" num="837" delta="old" >Partially locked IO Bus is found. 
+<arg fmt="%s" index="1"> Following components of the bus are not locked: 
+	 Comp: NF_A&lt;24&gt;
+	 Comp: NF_A&lt;23&gt;
+	 Comp: NF_A&lt;22&gt;
+</arg>
+</msg>
+
+<msg type="warning" file="Place" num="838" delta="old" >An IO Bus with more than one IO standard is found.
+<arg fmt="%s" index="1">Components associated with this bus are as follows: 
+	 Comp: NF_A&lt;0&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;1&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;2&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;3&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;4&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;5&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;6&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;7&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;8&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;9&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;10&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;11&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;12&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;13&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;14&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;15&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;16&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;17&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;18&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;19&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;20&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;21&gt;   IOSTANDARD = LVCMOS33
+	 Comp: NF_A&lt;22&gt;   IOSTANDARD = LVCMOS25
+	 Comp: NF_A&lt;23&gt;   IOSTANDARD = LVCMOS25
+	 Comp: NF_A&lt;24&gt;   IOSTANDARD = LVCMOS25
+
+</arg>
+</msg>
+
+<msg type="info" file="Place" num="834" delta="old" >Only a subset of IOs are locked. Out of <arg fmt="%d" index="1">48</arg> IOs, <arg fmt="%d" index="2">45</arg> are locked and <arg fmt="%d" index="3">3</arg> are not locked. <arg fmt="%s" index="4">If you would like to print the names of these IOs, please set the environment variable XIL_PAR_DESIGN_CHECK_VERBOSE to 1.</arg> 
+</msg>
+
+<msg type="warning" file="Route" num="455" delta="old" >CLK Net:<arg fmt="%s" index="1">disk_en</arg> may have excessive skew because 
+   <arg fmt="%d" index="2">0</arg> CLK pins and <arg fmt="%d" index="3">28</arg> NON_CLK pins failed to route using a CLK template.
+</msg>
+
+<msg type="warning" file="Route" num="455" delta="old" >CLK Net:<arg fmt="%s" index="1">Inst_Disk_Controller/Mtrien_NF_D_not0001</arg> may have excessive skew because 
+   <arg fmt="%d" index="2">2</arg> CLK pins and <arg fmt="%d" index="3">0</arg> NON_CLK pins failed to route using a CLK template.
+</msg>
+
+<msg type="warning" file="Route" num="455" delta="old" >CLK Net:<arg fmt="%s" index="1">a_kbd_main_ctrl/keyboard/ps2_keyboard_0/debounce_ps2_clk/result</arg> may have excessive skew because 
+   <arg fmt="%d" index="2">0</arg> CLK pins and <arg fmt="%d" index="3">6</arg> NON_CLK pins failed to route using a CLK template.
+</msg>
+
+<msg type="warning" file="Route" num="455" delta="old" >CLK Net:<arg fmt="%s" index="1">a_n016/i_wr</arg> may have excessive skew because 
+   <arg fmt="%d" index="2">0</arg> CLK pins and <arg fmt="%d" index="3">88</arg> NON_CLK pins failed to route using a CLK template.
+</msg>
+
+</messages>
+

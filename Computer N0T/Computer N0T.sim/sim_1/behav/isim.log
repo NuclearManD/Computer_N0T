@@ -1,0 +1,26 @@
+ISim log file
+Running: C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Computer N0T/Computer N0T.sim/sim_1/behav/top_tb_n0t.exe -intstyle pa -gui -tclbatch isim.cmd -wdb top_tb_n0t.wdb -view C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/def.wcfg 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# run 1000 ms
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+INFO: Simulator is stopped.
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /top_tb_n0t/uut/a_n016/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+INFO: Simulator is stopped.
+# run 1.00us
+INFO: Simulator is stopped.
+# run 1.00us
+INFO: Simulator is stopped.

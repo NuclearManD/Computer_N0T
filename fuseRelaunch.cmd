@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_isim_beh.exe" -prj "C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/top_tb_n0t_beh.prj" "work.top_tb_n0t" 

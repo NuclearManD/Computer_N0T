@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\dylanbrophy\VHDL_computer_parts\Computer_N0T\Top_Module.ncd
+OUTFILE=C:\Users\dylanbrophy\VHDL_computer_parts\Computer_N0T\Top_Module.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s700an-5fgg484
+WORKINGDIR=C:\Users\dylanbrophy\VHDL_computer_parts\Computer_N0T
+LICENSE=WebPack
+USER_INFO=211067047_0_0_011

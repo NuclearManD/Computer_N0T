@@ -1,0 +1,2 @@
+vhdtdtfi -prj Computer_N0T -o C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Disk_Controller.vhi -module Disk_Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../disk_ext_spi/Disk_Controller.vhd 
+vhdtdtfi -prj Computer_N0T -o C:/Users/dylanbrophy/VHDL_computer_parts/Computer_N0T/Disk_Controller.vhi -module Disk_Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../disk_ext_spi/Disk_Controller.vhd 
